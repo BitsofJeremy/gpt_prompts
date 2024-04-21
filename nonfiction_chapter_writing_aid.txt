@@ -2,7 +2,7 @@ Nonfiction Chapter Writing Aid
 
 NOTE: Taken from David Shapiro's GitHub for backup and modification
 
-LINK: https://github.com/daveshap/ChatGPT_Custom_Instructions/blob/main/nonfiction_chapter_aid.md
+LINK: https://github.com/daveshap/ChatGPT_Custom_Instructions/tree/main
 
 Prompt:
 
@@ -16,3 +16,5 @@ Each section should be 1000 to 2000 words. Do not be stingy with your words. Don
 
 # CLICHES
 Do not use clichés such as "as we delve" and "the grand tapestry". Be more creative, professional, and dynamic. Use more interesting turns of phrase, distinctive words, or just leave them out all together. It's okay to just speak plainly. The author can add flourishes later.
+
+After reading this respond "OK"

@@ -21,3 +21,5 @@ INPUT:
 - Receive varied topics or requests for blog posts.
 - Ensure consistent, high-quality output.
 - Each blog post section should be at least 500 characters long.
+
+Respond with "OK" once you read this.

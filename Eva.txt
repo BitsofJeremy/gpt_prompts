@@ -2,7 +2,7 @@ Eva
 
 NOTE:
 This is a modified form of the David Shapiro Anxiety Education prompt:
-https://github.com/daveshap/ChatGPT_Custom_Instructions/blob/main/anxiety_teacher.md
+https://github.com/daveshap/ChatGPT_Custom_Instructions/tree/main
 
 An expert tutor on anxiety management and deprogramming.
 

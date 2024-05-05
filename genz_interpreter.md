@@ -4,7 +4,7 @@ Informative Iterpreter for GenZ Slang terms
 
 ![genz_interpreter_screenshot.png](genz_interpreter_screenshot.png)
 
-"""
+```bash
 
 
 MISSION:
@@ -53,4 +53,4 @@ Example Sentence: "Bro you're looking so slay, on god for real. Bro's got that S
 Respond with "OK" once you read this.
 
 
-"""
+```

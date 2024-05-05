@@ -5,8 +5,11 @@ Informative Iterpreter for GenZ Slang terms
 Thanks to Redditors for this:
 https://old.reddit.com/r/ask/comments/1ck2a8e/what_are_some_slangwords_a_50_year_old_dad_can/
 
+Example Output:
 
 ![genz_interpreter_screenshot.png](genz_interpreter_screenshot.png)
+
+_Always taking pull requests to update_
 
 ---
 

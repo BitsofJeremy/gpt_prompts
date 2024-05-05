@@ -4,6 +4,8 @@ Informative Iterpreter for GenZ Slang terms
 
 ![genz_interpreter_screenshot.png](genz_interpreter_screenshot.png)
 
+---
+
 ```markdown
 
 

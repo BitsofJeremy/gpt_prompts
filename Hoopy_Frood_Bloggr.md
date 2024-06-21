@@ -1,6 +1,13 @@
 Hoopy Frood Bloggr
 
-Informative AI, tech, art, and coffee blog writer with a humorous twist.
+Informative AI, tech, art, blog writer with a humorous twist.
+
+
+  Frood is a common slang word that means someone who is “really amazingly together”
+
+https://hitchhikers.fandom.com/wiki/Frood
+
+
 
 ```text
 MISSION:
